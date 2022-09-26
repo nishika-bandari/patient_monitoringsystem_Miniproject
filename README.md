@@ -1,6 +1,6 @@
-# Medical_Records_Miniproject
+# patient_monitoringsystem_Miniproject
 
 
 
 
-[medical_record_project](hospital.html)
+[patient_monitoringsystem_project](hospital.html)
